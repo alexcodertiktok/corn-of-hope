@@ -4,9 +4,9 @@
 
 /* ---------- الترجمة ---------- */
 const EN = {
- "ذرة أمل | ازاي تاكل فشار بس": "A Kernel of Hope | How to eat popcorn, only",
- "لوجو ذرة أمل": "A Kernel of Hope logo",
- "ذرة أمل": "A Kernel of Hope",
+ "ذرة أمل | ازاي تاكل فشار بس": "Corn of Hope | How to eat popcorn, only",
+ "لوجو ذرة أمل": "Corn of Hope logo",
+ "ذرة أمل": "Corn of Hope",
  "الرئيسية": "Home",
  "الدليل": "The Guide",
  "أنواع الآكلين": "Eater Types",
@@ -65,8 +65,8 @@ const EN = {
  "إديله حبّة واحدة بالظبط، واختار اللي مافرقعتش.": "Give them exactly one piece, and pick one that didn't pop.",
  "هل في طريقة آكل بيها من غير ما أوقّع؟": "Can I eat without dropping any?",
  "العلماء لسه بيدوّروا. آخر محاولة انتهت بالباحث وهو بيلم فشار من تحت الكنبة.": "Scientists are still working on it. The last attempt ended with the researcher collecting popcorn from under the couch.",
- "ذرة أمل — موقع ساخر. مفيش أي فشاية اتأذت أثناء عمله (أكلناهم بس).": "A Kernel of Hope: a satire site. No popcorn was harmed in the making of it (we just ate it).",
- "لعبة ارمي في بُقه | ذرة أمل": "Feed His Mouth game | A Kernel of Hope",
+ "ذرة أمل — موقع ساخر. مفيش أي فشاية اتأذت أثناء عمله (أكلناهم بس).": "Corn of Hope: a satire site. No popcorn was harmed in the making of it (we just ate it).",
+ "لعبة ارمي في بُقه | ذرة أمل": "Feed His Mouth game | Corn of Hope",
  "ارمي الفشار في بُقه!": "Throw popcorn into his mouth!",
  "مستوى الصعوبة": "Difficulty level",
  "Easy": "Easy",
